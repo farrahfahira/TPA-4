@@ -1,0 +1,40 @@
+.About {
+  display: flex;
+}
+
+.section-1,
+.section-2 {
+  flex: 1;
+}
+
+.section-1 {
+  /* background-color: blue; */
+}
+
+.section-2 {
+  /* background-color: aquamarine; */
+}
+
+.section-1 .content-section img {
+  /* background-color: aqua; */
+  margin-left: 70px;
+  margin-top: 30px;
+}
+.About .section-2 .content-section {
+  /* background-color: blue; */
+  margin-left: 0px;
+  margin-right: 150px;
+  margin-top: 150px;
+}
+
+.About .section-2 .content-section h5 {
+  color: #e11f1f;
+}
+
+.About .section-2 .content-section h4 {
+  margin-right: 50px;
+  text-align: left;
+  font-size: 15px;
+  line-height: 24px;
+  color: #aea7a7;
+}

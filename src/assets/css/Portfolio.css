@@ -1,0 +1,19 @@
+.Portfolio {
+  /* background-color: aqua; */
+  margin: 50px 75px 75px 100px;
+}
+
+.portfolio-card {
+  display: flex;
+  /* background-color: aquamarine; */
+  justify-content: space-evenly;
+}
+
+.portfolio-title {
+  /* background-color: aqua; */
+  margin: 50px 90px;
+}
+
+.portfolio-title h3 {
+  color: aliceblue;
+}

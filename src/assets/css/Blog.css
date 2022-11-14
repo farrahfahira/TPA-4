@@ -1,0 +1,7 @@
+.Blog {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 50px 75px 75px 100px;
+  /* background-color: aqua; */
+}
