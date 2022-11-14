@@ -5,7 +5,7 @@ import "../assets/css/Blog.css";
 
 const Blog = () => {
   const [card, setCard] = useState([
-    { title: "Judul 1", imgUrl: pemandangan },
+    { title: "Blausee, Danau Patah Hati di Swiss yang Paling Romantis", imgUrl: pemandangan },
     { title: "Judul 2", imgUrl: pemandangan },
     { title: "Judul 3", imgUrl: pemandangan },
     { title: "Judul 4", imgUrl: pemandangan },
